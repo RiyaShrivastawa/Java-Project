@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="backend/inox.java"/>
+	<classpathentry kind="src" path="backend/Movie-booking/Movie-booking/src/main/java"/>
+	<classpathentry kind="src" path="backend/Movie-booking/Movie-booking/src/test/java"/>
+	<classpathentry kind="output" path="backend/Movie-booking/Movie-booking/target/classes"/>
+</classpath>
